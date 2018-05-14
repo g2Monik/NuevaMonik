@@ -1,0 +1,62 @@
+body{
+  background-color: #CEE3F6;
+}
+header{
+  width: 100%;
+  height: 8%;
+  position: fixed;
+  background-color: #5858FA;
+  color: white;
+}
+div{
+display: inline-block;
+width: 32%;
+}
+
+a{
+  color:black;
+}
+
+div.right{
+ text-align: right;
+}
+
+div.left{
+  left:0;
+  text-align: left;
+}
+
+div.center{
+  text-align: center;
+}
+
+div.infor{
+  position: relative;
+  display: inline-block;
+  width: 48%;
+  height: 100%;
+  margin-top: 4%;
+}
+
+#Menu {
+  text-align: right;
+}
+
+.tareas{
+  background-color: pink;
+  position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: 40vh;
+  margin-top: 4%;
+
+}
+
+div.button{
+  width: 30%;
+  display: inline-block;
+}
+
+.solo{
+  display: inline;
+}

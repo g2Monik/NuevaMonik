@@ -1,0 +1,19 @@
+body{
+  background-color: #CEE3F6;
+  color:white;
+}
+
+div.row{
+height: 3em;
+}
+
+div.row > span{
+  display: inline-block;
+  outline: 1px solid pink;
+  width: 5em;
+  height: 100%;
+}
+
+span.blue{
+  background-color: #44F;
+}
